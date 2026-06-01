@@ -13,8 +13,7 @@ This repository contains my C programming practice solutions as a 1st-year BTech
 
 ### Programs
 - Hello World
-- Input and Output
-- Sum of two numbers
+- sum and difference of two numbers
 
 ### Concepts Learned
 - Structure of a C program
