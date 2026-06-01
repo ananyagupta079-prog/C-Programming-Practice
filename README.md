@@ -14,6 +14,7 @@ This repository contains my C programming practice solutions as a 1st-year BTech
 ### Programs
 - Hello World
 - sum and difference of two numbers
+- playing with characters
 
 ### Concepts Learned
 - Structure of a C program
