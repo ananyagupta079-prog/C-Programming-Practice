@@ -15,6 +15,10 @@ This repository contains my C programming practice solutions as a 1st-year BTech
 - Hello World
 - sum and difference of two numbers
 - playing with characters
+- functions in c
+- pointers in c
+- conditional statements in c
+- for loop in c
 
 ### Concepts Learned
 - Structure of a C program
