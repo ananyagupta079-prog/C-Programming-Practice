@@ -19,6 +19,15 @@ This repository contains my C programming practice solutions as a 1st-year BTech
 - pointers in c
 - conditional statements in c
 - for loop in c
+## Week 2 -Arrays and Strings
+### Programs
+- 1D-Array
+- Array Reversal
+- Digit Frequency
+- Playing Tokens
+- Printing Patterns
+- sum of digits
+
 
 ### Concepts Learned
 - Structure of a C program
