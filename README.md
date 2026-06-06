@@ -19,6 +19,7 @@ This repository contains my C programming practice solutions as a 1st-year BTech
 - pointers in c
 - conditional statements in c
 - for loop in c
+- bitwise operators
 ## Week 2 -Arrays and Strings
 ### Programs
 - 1D-Array
