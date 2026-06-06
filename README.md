@@ -27,7 +27,15 @@ This repository contains my C programming practice solutions as a 1st-year BTech
 - Playing Tokens
 - Printing Patterns
 - sum of digits
-
+## Week-3-Functions and Recursion
+### programs
+- Factorial
+- Fibonacci series
+- GCD of two numbers
+- Power Function
+- Prime number
+- Recursive factorial
+- Recursive fibonacci
 
 ### Concepts Learned
 - Structure of a C program
