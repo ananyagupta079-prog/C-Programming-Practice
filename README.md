@@ -37,6 +37,13 @@ This repository contains my C programming practice solutions as a 1st-year BTech
 - Prime number
 - Recursive factorial
 - Recursive fibonacci
+## Week-4-Structures
+### Programs
+- box through tunnels
+- small triangles
+- dynamic memory allocation
+- pointer arithmetic
+- student record
 
 ### Concepts Learned
 - Structure of a C program
